@@ -10,6 +10,7 @@
 ## Project highlights
 - UIKit
 - MVVM
+- UI designed for both iPhone and iPad
 - Cell data lazy async loading
 - Navigation using a bit of Combine FRP
 - Logic separation
